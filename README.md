@@ -23,7 +23,7 @@ I'm a graduate IIT Madras who is passionate about using cutting edge technology 
 - 📫 How to reach me:
 
 
-[![Linkedin: dheerajreddy](https://img.shields.io/badge/-santhoshreddy39-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheeraj-reddy-20/)](https://www.linkedin.com/in/dheeraj-reddy-20/)
+[![Linkedin: dheerajreddy](https://img.shields.io/badge/-dheerajreddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheeraj-reddy-20/)](https://www.linkedin.com/in/dheeraj-reddy-20/)
 [![GitHub santhoshreddy39](https://img.shields.io/github/followers/dheerajreddy2020?label=follow&style=social)](https://github.com/dheerajreddy2020)
 
 **Languages and Tools:**  Python, C++, Matlab   <br />
