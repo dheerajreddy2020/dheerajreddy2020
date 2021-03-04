@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hello, I'm Dheeraj Reddy 👋
+**Glad to see you here!**
 
-<!--
-**dheerajreddy2020/dheerajreddy2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a graduate IIT Madras who is passionate about using cutting edge technology to solve real world problems with strong understanding of various machine learning algorithms and frameworks backed by strong mathematical foundations.
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajreddy2020&label=Views&color=blue&style=plastic" alt="dheerajreddy2020" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</a>
+<a href="https://linkedin.com/in/dheeraj-reddy-20">
+  <img align="left" alt="Dheeraj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/dheerajreddy2020">
+  <img align="left" alt="Dheeraj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<br/>
+<br/>
+
+- 🌱 I have a great experience in applying computer vision and NLP algorithms to solve real world problems
+- 👯 I’m looking to collaborate on Kaggle, Medium
+- 🤔 Continuously learning latest developments in AI
+- 💬 Feel free to contact me for any doubts regarding deep learning algorithms
+- 📫 How to reach me:
+
+
+[![Linkedin: dheerajreddy](https://img.shields.io/badge/-santhoshreddy39-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheeraj-reddy-20/)](https://www.linkedin.com/in/dheeraj-reddy-20/)
+[![GitHub santhoshreddy39](https://img.shields.io/github/followers/dheerajreddy2020?label=follow&style=social)](https://github.com/dheerajreddy2020)
+
+**Languages and Tools:**  Python, C++, Matlab   <br />
+**Machine Learning:** Linear Regression, Logistic Regression, KNN, Decision trees, Neural networks.
+**Computer Vision:** Object detection, Object tracking, Face Recognition, VAE, GAN.
+**Natural Language Processing (NLP):** Information extraction, Sentiment analysis, Machine translation, chatbots
+
+ 
+</a>
+<a href="https://github.com/dheerajreddy2020">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dheerajreddy2020&show_icons=true&theme=light&line_height=27" alt="Dheeraj's github stats"/>
+</a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
