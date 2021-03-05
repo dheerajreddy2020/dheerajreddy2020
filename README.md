@@ -1,7 +1,7 @@
 ### Hello, I'm Dheeraj Reddy 👋
 **Glad to see you here!**
 
-I'm a graduate IIT Madras who is passionate about using cutting edge technology to solve real world problems with strong understanding of various machine learning algorithms and frameworks backed by strong mathematical foundations.
+I'm a graduate from IIT Madras who is passionate about using cutting edge technology to solve real world problems with strong understanding of various machine learning algorithms and frameworks backed by strong mathematical foundations. Currently i am enrolled in AI graduate certificate program at durham college, where I am also working as a researcher at AI-hub and am responsible for delivering solutions to industrial problems related to computer vision and NLP.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajreddy2020&label=Views&color=blue&style=plastic" alt="dheerajreddy2020" /> </p>
 
