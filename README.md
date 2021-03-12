@@ -19,7 +19,6 @@ I'm a graduate from IIT Madras who is passionate about using cutting edge techno
 - 🌱 I have a great experience in applying computer vision and NLP algorithms to solve real world problems
 - 👯 I’m looking to collaborate on Kaggle, Medium
 - 🤔 Continuously learning latest developments in AI
-- 💬 Feel free to contact me for any doubts regarding deep learning algorithms
 - 📫 How to reach me:
 
 
