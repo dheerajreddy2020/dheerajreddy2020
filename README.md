@@ -30,7 +30,6 @@
 
 📫 **Contact Me**  
 - [LinkedIn](https://www.linkedin.com/in/dheeraj-reddy-20)  
-- [Portfolio](https://dheerajreddy2020.github.io)
 - [Email](mailto:dheerajreddy.peddireddy@gmail.com)  
 
 ✨ Check out my pinned projects below!
