@@ -10,7 +10,7 @@
 🚀 **Skills**  
 
 ### Programming Languages  
-- Python, C++, Node.js, SQL  
+- Python, C++, Node.js, SQL 
 
 ### Machine Learning & AI  
 - Deep Learning Models , Recommendation Systems, Generative AI, LLMs  
